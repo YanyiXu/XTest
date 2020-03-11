@@ -1,0 +1,2 @@
+Msg = 'hellow world'
+print(Msg)
